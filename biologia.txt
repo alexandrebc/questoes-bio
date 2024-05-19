@@ -3,3 +3,9 @@ a) item a
 b) item b
 c) item c
 d) item d
+
+Questao 2
+a) item a
+b) item b
+c) item c
+d) item d
