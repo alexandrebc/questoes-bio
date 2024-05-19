@@ -10,6 +10,12 @@ b) item b
 c) item c
 d) item d
 
+Questao 3
+a) item a
+b) item b
+c) item c
+d) item d
+
 Questao Surpresa
 a) item a
 b) item b
